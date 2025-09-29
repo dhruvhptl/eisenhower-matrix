@@ -16,15 +16,19 @@ A productivity desktop app for daily task management using the Eisenhower Matrix
 ## Installation
 
 1. Clone the repo:
+
 git clone https://github.com/dhruvhptl/eisenhower-matrix.git
 
 2. Install Python dependencies:
+
 pip install customtkinter
 
 3. Run the app:
+
 python main.py
 
 4. Optionally, build a standalone installer using PyInstaller:
+
 pip install pyinstaller
 pyinstaller main.py
 
@@ -42,3 +46,4 @@ MIT
 
 ## Contributing
 Open to feedback, pull requests, and suggestions!
+
